@@ -1,0 +1,66 @@
+html {
+    min-height: 100%;
+    position: relative;
+  }
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+.footer {
+	position: absolute;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #1abc9c;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 12px;
+  color: #fff;
+}
+
+.a-tag{
+    padding: 0px 50px;
+    text-decoration: none;
+    width: 100%;
+    text-align: center;
+    color: black;
+}
+
+.twitter:hover{
+    color:#00B6F1;
+}
+.fb:hover{
+    color:#3B5998;
+}
+.insta:hover{
+    color:#E1306C;
+}
+.mail:hover{
+    color: #c71610;
+}
+.ln:hover{
+    color: #381460;
+}
+.git:hover{
+    color:#010a43;
+}
